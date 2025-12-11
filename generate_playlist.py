@@ -26,8 +26,8 @@ def generate_m3u_playlist(json_data, output_file="playlist.m3u"):
             
             # Add DRM properties if keys exist (formatted for inputstream.adaptive)
             if kid and key:
-                f.write('#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n')
-                f.write(f'#KODIPROP:inputstream.adaptive.license_key={kid}:{key}\n')
+                f.write('KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n')
+                f.write(f'KODIPROP:inputstream.adaptive.license_key={kid}:{key}\n')
                 
             # Write the stream URL
             f.write(f'{url}\n')
