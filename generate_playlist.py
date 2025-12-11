@@ -29,8 +29,8 @@ def generate_m3u_playlist(json_data, output_file="playlist.m3u"):
             # 1. License type changed to 'key' for ClearKey
             # 2. Leading '#' removed from KODIPROP lines
             if kid and key:
-                f.write('KODIPROP:inputstream.adaptive.license_type=key\n')
-                f.write(f'KODIPROP:inputstream.adaptive.license_key={kid}:{key}\n')
+                f.write('#KODIPROP:inputstream.adaptive.license_type=clearkey\n')
+                f.write(f'#KODIPROP:inputstream.adaptive.license_key={kid}:{key}\n')
             # --- END OF USER-REQUESTED CORRECTIONS ---
                 
             # Write the stream URL
