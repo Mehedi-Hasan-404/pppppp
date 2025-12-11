@@ -3,7 +3,8 @@ import os
 
 def generate_m3u_playlist(json_data, output_file="playlist.m3u"):
     """
-    Generates an M3U playlist from the provided JSON data.
+    Generates an M3U playlist from the provided JSON data,
+    using ClearKey format properties for inputstream.adaptive.
     """
     print(f"Starting playlist generation for {len(json_data)} entries...")
     
@@ -24,10 +25,13 @@ def generate_m3u_playlist(json_data, output_file="playlist.m3u"):
             # Write M3U metadata line
             f.write(f'#EXTINF:-1 group-title="Stream",{channel_id}\n')
             
-            # Add DRM properties if keys exist (formatted for inputstream.adaptive)
+            # --- START OF USER-REQUESTED CORRECTIONS ---
+            # 1. License type changed to 'key' for ClearKey
+            # 2. Leading '#' removed from KODIPROP lines
             if kid and key:
-                f.write('KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n')
+                f.write('KODIPROP:inputstream.adaptive.license_type=key\n')
                 f.write(f'KODIPROP:inputstream.adaptive.license_key={kid}:{key}\n')
+            # --- END OF USER-REQUESTED CORRECTIONS ---
                 
             # Write the stream URL
             f.write(f'{url}\n')
