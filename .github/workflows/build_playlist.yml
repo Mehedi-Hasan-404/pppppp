@@ -1,0 +1,44 @@
+name: Generate Playlist M3U
+
+on:
+  # Trigger when api_data.json changes on the main branch
+  push:
+    branches:
+      - main
+    paths:
+      - 'api_data.json' 
+  
+  # Trigger daily at midnight UTC
+  schedule:
+    - cron: '0 0 * * *' 
+    
+  # Allow manual trigger from the GitHub Actions UI
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        # Use the standard action to check out the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        # Set up a Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run playlist generation script
+        # Execute the script to generate playlist.m3u
+        run: python generate_playlist.py
+
+      - name: Commit and Push new playlist.m3u
+        # Use a third-party action to automatically commit and push the generated file
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: Automatic playlist.m3u update"
+          # Only commit the generated file
+          file_pattern: 'playlist.m3u'
+          # This action uses the GITHUB_TOKEN for authentication and will create a commit
