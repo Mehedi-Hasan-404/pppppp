@@ -1,1188 +1,1188 @@
 #EXTM3U
 #EXTINF:-1 group-title="Stream",68f907a871377
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a1bca5af60a02c460f018a3c7261f09c:b3453a545533527a9fd63ca875b2f52d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ochf0xqm3i/out/v1/37508576baee45588f0e77780508696d/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a5fddb362c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=48f6001ddefcddd58465e0e8949cdfb0:75843e6667774fed131da90cafc4284a
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hdluyieqeb/out/v1/37d25ee69dac4db9a8728eabc5c74cb4/cenc.mpd
 #EXTINF:-1 group-title="Stream",68e1271a22734
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
 #EXTINF:-1 group-title="Stream",682c2f5d8bd62
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
 https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
 #EXTINF:-1 group-title="Stream",690a580983e3f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=aed758916c343b115093e98f4c0e4a99:9c74bff9249e2ac2eb65b49f614f8f7c
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/p3ybn2gpmw/out/v1/b29bd25eded6483ea480cb9ef7f70810/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a2552578d0
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 #EXTINF:-1 group-title="Stream",68ab5ca2b3c26
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=95057f9aa0a8fc5282459646a2afd9d9:c0c245606f67159c648e7ea240a653c1
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fd74fm4q9a/out/v1/ab690bdc35aa412d82926133d5777033/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f14f0ece5f0
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4626728e91e9e3e88d135e045f645b44:171d70c9caba0da9bb4fe0e5837abfb7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/5e62e9inpa/out/v1/529f9ad3a91e4fa9a6fb7d4dbe765335/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",682c1fa1085c7
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
 #EXTINF:-1 group-title="Stream",68408d6a35c17
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpdk-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v
 #EXTINF:-1 group-title="Stream",686eae45d0e0c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f92ac0e9860
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=53b393dbd0bfb2c23ef0904c13d51529:65bb0fb487b5f15421c1f433b2430e9f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5jdr6rmopv/out/v1/a9cbe59613c248ba8ba32c91efea8c7e/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c0c1aa105d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 group-title="Stream",682a3b27b0181
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c203abfa53
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f907948fe79
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8b6779d3aa2bdef67913b43a2af0b636:f548e71c73b71ac19fbd69bd6cac7cdf
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dblrm9rihh/out/v1/a8784b7a95ac41cdb9110e722b506c85/cenc.mpd
 #EXTINF:-1 group-title="Stream",68e11ba3b1689
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
 #EXTINF:-1 group-title="Stream",68fcc78b92d76
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=effd639c36c371e08906f60f6102a8e0:60f5f5dadb4ad8f5b955b0eb56d9b75f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zkj73zewd7/out/v1/c02b54d3089e4b169afb2804013165cf/cenc.mpd
 #EXTINF:-1 group-title="Stream",68e954b135cec
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c2964ac003
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4708dc633793632adb2287ef37b2dc79:4d09e48cae8061ed7612c1c969804922
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kaq34ndrio/out/v1/a8d9a45706e54ae49a922dc6d9dd151f/cenc.mpd
 #EXTINF:-1 group-title="Stream",68d010617c0dd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=71c42f8ccb9c6552495de2c81ca24e0a:ce28c5d2e8959a3acb6ebcf794b8f785
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/403k5ryozh/out/v1/48a9aae7382145069b79e9b25cb53445/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcf0369dede
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=696f9bf50f6acb998f01b167f116489a:665def116bb1fab7a150652c1b8ae38b
 https://abfefuqaaaaaaaamje6i5hpbgxmgg.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sa3kv0ib81/out/v1/3997f922f5a946359797885cb496f93b/cenc.mpd
 #EXTINF:-1 group-title="Stream",68d6dae8bf61a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c1ee86fd94
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
 #EXTINF:-1 group-title="Stream",68ab51f841c06
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 group-title="Stream",69062226518c3
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0483a4b1de952abc028f7415e5bdc0bf:8462ec19bc49d9c60276e68cb7e7a6ea
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/eb6ko2aqak/out/v1/5bc929e6a4ab4fafbfba9b22720e40e5/cenc.mpd
 #EXTINF:-1 group-title="Stream",68eb53552e7a4
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c745ae85f3a06feba71b92df84f3a271:3b18e09add4affef023cbf5f53cb11be
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/xgx8wdfenz/out/v1/82763ceb918f42f5a5347417ef9cdc76/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68fde79d91990
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 #EXTINF:-1 group-title="Stream",682ae006c33c2
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
 https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f4e024a0d26
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=5d26bde3a99a3b543f4827e055c083b7:761ce14712b9318b420a00a8806fc44e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ifdutiqygp/out/v1/345236d7c75b4c1ab557cd609113c01f/cenc.mpd
 #EXTINF:-1 group-title="Stream",68eb42c35465a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ebc20bb4909d336b87d6982c472714e8:92268d54a5d8dd56466cb8cc886d2def
 https://d7pd9oqdl4d44.cloudfront.net/2025_10_07_20_28_14_ce37da79-6e72-405e-b3f2-24bef4754c0c/PROD_CMAF_CENC/index-dash.mpd
 #EXTINF:-1 group-title="Stream",68f9295887ab4
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=e3762bc90acca0c4315a593c89596f00:07dc584ae7369bb0922b29b0a9c48793
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ncwuweug2w/out/v1/e07e56174e8f4a409656db31f165b985/cenc.mpd
 #EXTINF:-1 group-title="Stream",68d7e52b19edb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 #EXTINF:-1 group-title="Stream",68d82324947c5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Stream",682adc5bb3d75
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fbc5889dc4f
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Stream",68408383014a7
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f3a3d264595
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d488a7fc21df1f453f50c603c000d821:137f5f1958749a63b766a033c6b84ef2
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/exzo0rg5yd/out/v1/82278d648265484ba604dbd5cb20a9db/cenc.mpd
 #EXTINF:-1 group-title="Stream",68eccf332d81f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=583ee502243457bfdc4a637662759eed:9439fcdb3b879e87d80486c7ebc66770
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/desavorttw/out/v1/d251fc306002420e9eff5bf242a79a11/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68d8088d1c169
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 #EXTINF:-1 group-title="Stream",690b97f0cdb11
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=48f6001ddefcddd58465e0e8949cdfb0:75843e6667774fed131da90cafc4284a
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/onloozv98x/out/v1/bb7367ed566d477c831f91a2b47e84ec/cenc.mpd
 #EXTINF:-1 group-title="Stream",6907867872da5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=679d16ceb1e90b7cbab6232e104c5339:27c4de2f2191a7e196e9a716bfedf80b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vy49hnqkuk/out/v1/520fd4c75f0e4c8692cfd3f0e7606c6b/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcd65518e01
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b96fb1679c8112086bb85ae402acc3f4:e907a234805555ef24b664e6c3babedb
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epq8g0alu4/out/v1/98941c2c0ec34c7fbbeefe8cfa6ebd42/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a24672df10
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
 #EXTINF:-1 group-title="Stream",68cef97684258
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f92ea19dbcf
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=625165aa73d45c68b9995f69f16c1286:7886263725e1cf8d4f42abefae91befd
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qdzksjw97a/out/v1/002ab17faff24dc99a5827c4894f0220/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a5aabeed8b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=680a24e3d3785ea8b3a33a56928ea128:3f07a7f94f0ac7ee96057224b6a4163d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xuzbx98gbb/out/v1/95d0f00d5f5a4f52847c48265e7ed5c5/cenc.mpd
 #EXTINF:-1 group-title="Stream",69062232703a7
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=fdcecd8282a560823130b617e72d06e0:bf8a0f4ccbadb7c4418e5447cd8b9ca0
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5qqket2g0j/out/v1/0a4889666f4a4faba474fc2d38651b16/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fe4a735b5d8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=78bf9ace493e5ad15821dca23249bcb0:bbf11362e9e5766c4ed56ef2852ba848
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sb6ia9wt6v/out/v1/f29ad0163ceb4cfabf1ececd2bec2e77/cenc.mpd
 #EXTINF:-1 group-title="Stream",6900db5e57724
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4ec94d13beab1e87f85a313d3d06d1e2:3f5b11be75298e94a6119cd8194f5a79
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5kb1laaycx/out/v1/61c64afb457e476ca5423657dc4ecacb/cenc.mpd
 #EXTINF:-1 group-title="Stream",68bdd1c77daab
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
 #EXTINF:-1 group-title="Stream",68ab573cb16c6
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8a0dbfcb554f8f4e24269b33ca0c467f:72ba9583fc03ea2b0f0b700bd0474abd
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/itf3ylroaq/out/v1/47697a0a1a594aa481b5aa5f8f4af69a/cenc.mpd
 #EXTINF:-1 group-title="Stream",682adaf2a5548
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 #EXTINF:-1 group-title="Stream",68fcc77f57bd9
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7a98cb99702a3728f76e44058efa6efd:3f3068aca1a759e0c3b0c7c76ba920be
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9ms6nwcywa/out/v1/fbbde2bd9ea241cd947877865c3976bd/cenc.mpd
 #EXTINF:-1 group-title="Stream",68c073a10d696
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 #EXTINF:-1 group-title="Stream",68e1264a4b1eb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
 #EXTINF:-1 group-title="Stream",68f929af2600b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=aac73807bff708555006dd8e60b58ab8:f4145938732b764ca59576887e5b2167
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/23uzfhjl3p/out/v1/386a38e57c834600971aa8110975c0af/cenc.mpd
 #EXTINF:-1 group-title="Stream",690623a2f2bc3
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9a02aadcaaf79765605f6d28e7ba3623:f310f9a8c3069b9c313f0204d5c996d3
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kg1p6c9imr/out/v1/c2631fc1c8854dbc84f18845fe704d28/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c20f1b3f6c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcd7a8b95a2
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9b00db712b1e50306e0b836a64e7121a:c97c3d30e10ead1a2b9a467c49967a39
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/krg9kbmpeo/out/v1/d5a2e66294604ffb90613e24d6913abf/cenc.mpd
 #EXTINF:-1 group-title="Stream",682ae2562693a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://abm5x5xaaaaaaaamcqsg3izt3pszd.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 #EXTINF:-1 group-title="Stream",690ba88477795
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=48f6001ddefcddd58465e0e8949cdfb0:75843e6667774fed131da90cafc4284a
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/onloozv98x/out/v1/bb7367ed566d477c831f91a2b47e84ec/cenc.mpd
 #EXTINF:-1 group-title="Stream",682addc7c986b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://cors-anywhere.ammoapps.com/https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 #EXTINF:-1 group-title="Stream",68f4e0fd4994a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=5d26bde3a99a3b543f4827e055c083b7:761ce14712b9318b420a00a8806fc44e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ifdutiqygp/out/v1/345236d7c75b4c1ab557cd609113c01f/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c1e94729bf
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a24794f8a6
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 #EXTINF:-1 group-title="Stream",68c0750f7c2bf
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68fceec8ed194
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7575687818c129d0cee72c715d9a8fde:c84e53316bf009ec9e6921816f91f800
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xr2j63m4bu/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd
 #EXTINF:-1 group-title="Stream",6873b38c03567
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 #EXTINF:-1 group-title="Stream",68f4e01783e3f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/master.mpd
 #EXTINF:-1 group-title="Stream",69064a52d26fe
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
 https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f92a71b98e1
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=53b393dbd0bfb2c23ef0904c13d51529:65bb0fb487b5f15421c1f433b2430e9f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5jdr6rmopv/out/v1/a9cbe59613c248ba8ba32c91efea8c7e/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c2a2586184
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 group-title="Stream",68f280b421e02
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a203c8ce27eb191fb2e13b5146b84545:77b63decb98bd05f291838e4e4ad4d44
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/2ckptcwkzb/out/v1/f2d27ecff7b24a18aae3afe21298920e/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68fcdad052313
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=55cfc94b3546e4bc57c81390f1fb2199:2d83e2fc52551ba8b544fa45cd211dfa
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/flbolzlvy9/out/v1/9bd6a5e96f2d45f3996cd29ccff9eaa5/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcc72a4b744
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ef5efcbecae636d511fb51f1c6dd75d5:d9245dfdd2a4af72d599505c59c71f44
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qnln6niwjg/out/v1/2cc5d34893994fcb8c5f81f887f0f43d/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f14effeef74
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3f53cc2bb2f0a50708f0a45c248b6a9e:2951442b91d85be7e9de3fdf30b26bb5
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/mwzvrsn6bp/out/v1/9df4fab5e9c34f5686598ad7b6e8eb7a/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68ce988148dfe
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #EXTINF:-1 group-title="Stream",68ab830a7516a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560505/index.mpd
 #EXTINF:-1 group-title="Stream",68ab52c1db2b4
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f7b8741b4e4
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8b6779d3aa2bdef67913b43a2af0b636:f548e71c73b71ac19fbd69bd6cac7cdf
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dblrm9rihh/out/v1/a8784b7a95ac41cdb9110e722b506c85/cenc.mpd
 #EXTINF:-1 group-title="Stream",682ad9821feb8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #EXTINF:-1 group-title="Stream",68fe4d724a825
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=81fafe29255223fc7beeae1a8c756f8b:f24da67523e54d430d5811eafe6f4300
 https://a180aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/3vmy2ujnhv/out/v1/99a94809c51c4e3da24ae6fe59503fac/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f39dc69a652
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0e5c56eadd0dbf651b0a9fee31c327ca:dc2bf78bf7e01c715ca1f975fc6d8434
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/yx9mor5x6p/out/v1/828ef0c8811243369dcc4bea12b726f6/cenc.mpd
 #EXTINF:-1 group-title="Stream",682b432ec5859
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
 https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68e125e43bac5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
 #EXTINF:-1 group-title="Stream",682ae06474639
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=fe4e1cd2eea9e7ac5b365c261e41c57c:38dd1a0751aa0f04f2035636cf0608eb
 https://a151aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/wdxmrxkd70/out/v1/3b94f689049a43d082648d093a77f5f8/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f92b32b2e3f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=bebf83a365a6462a7fd4484f3e3d4742:b28b63b1cd5bece6885dd434a1a3719c
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ilikgn2yut/out/v1/37afb85a3a9b450197ad43c47bc92f76/cenc.mpd
 #EXTINF:-1 group-title="Stream",68ce9a2d2f034
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c22ed45fdb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4ce74377a7ef424f2d02dad8183b705c:e43e2bcf8896788ec98c512d9261fc05
 https://abm5x5xaaaaaaaamokzihhhbv2tc7.ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ilbt1qivcc/out/v1/51086e31852b4164a39b4318b4b3c7ed/cenc.mpd
 #EXTINF:-1 group-title="Stream",68d08d09e10aa
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c1d408c6e0
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
 #EXTINF:-1 group-title="Stream",68e1265b1a198
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/manifest.mpd
 #EXTINF:-1 group-title="Stream",68f7b70c0bf39
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3a4ea122da6cc5842544798747b44759:2d8379e632b47306dabda880110bf41f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dcpmrl3pau/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
 #EXTINF:-1 group-title="Stream",682dd4bdd1add
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=dc6730e151912178e15badc03ac790c5:eebfe14362379376c93625dd1017160e
 https://a170aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/xxnxvtlzdt/out/v1/abfcf5c1c13a43c0ba25886d1d3ff783/cenc.mpd
 #EXTINF:-1 group-title="Stream",682ae3e423016
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://jared-solomon.vercel.app/pro/linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #EXTINF:-1 group-title="Stream",68fc6ebc6dc31
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b9cf499d97387531e3bd9fdea2f7d81e:8885e1b817d24b4e317c01d46178ef5c
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/esfxq0vc3m/out/v1/2351aae1fe174bac8febb5d490876752/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68fbc595a095f
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a5f9c43f47
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=48f6001ddefcddd58465e0e8949cdfb0:75843e6667774fed131da90cafc4284a
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hdluyieqeb/out/v1/37d25ee69dac4db9a8728eabc5c74cb4/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fd1147c042c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
 #EXTINF:-1 group-title="Stream",6909d4b37fb29
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
 #EXTINF:-1 group-title="Stream",68e1272daef2a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd
 #EXTINF:-1 group-title="Stream",68f92b23257ed
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=db1c016866edf543ba6387ec2616bec7:7c1c3a1dd4718e23d70716d0b0ae3a77
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dn0yrvnxek/out/v1/70d1b584ac4d4647981cb144a92f7c90/cenc.mpd
 #EXTINF:-1 group-title="Stream",682dd4037a244
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
 https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 #EXTINF:-1 group-title="Stream",68f280c5d07f0
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Stream",682d615ac0547
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c21429206c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f39e5ab8cc2
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=e910d63234b6cb66e20b814375cdc150:5f366355e1e2423965f6c0e8592950ec
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ohqwstgcil/out/v1/9b43e44fa4ef4a589c03ca140e340d0b/cenc.mpd
 #EXTINF:-1 group-title="Stream",682a3a0f82acb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 #EXTINF:-1 group-title="Stream",6884ac6652053
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 group-title="Stream",68fcd9e81aa60
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=55cfc94b3546e4bc57c81390f1fb2199:2d83e2fc52551ba8b544fa45cd211dfa
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/flbolzlvy9/out/v1/9bd6a5e96f2d45f3996cd29ccff9eaa5/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fbc304956ca
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Stream",682d625b6fd07
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
 https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c1b4052f7d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c1a2a59d3d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 #EXTINF:-1 group-title="Stream",690a5f90db3fa
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0f65ef6baf9c0f3b7b3aaa3b6e4231e6:90f1c418cb62c118327cb1838f1acf25
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/2v05yo8k45/out/v1/ca1a64d9ccb740eeb18bd1a2711f7f20/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f4e1068d4d6
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f3c72dc7864
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 #EXTINF:-1 group-title="Stream",682ade59d0059
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 #EXTINF:-1 group-title="Stream",68f9b34d8e158
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=625165aa73d45c68b9995f69f16c1286:7886263725e1cf8d4f42abefae91befd
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qdzksjw97a/out/v1/002ab17faff24dc99a5827c4894f0220/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fe4faa5335b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4ec94d13beab1e87f85a313d3d06d1e2:3f5b11be75298e94a6119cd8194f5a79
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5kb1laaycx/out/v1/61c64afb457e476ca5423657dc4ecacb/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fceed58c477
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=696f9bf50f6acb998f01b167f116489a:665def116bb1fab7a150652c1b8ae38b
 https://abfefuqaaaaaaaamje6i5hpbgxmgg.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sa3kv0ib81/out/v1/3997f922f5a946359797885cb496f93b/cenc.mpd
 #EXTINF:-1 group-title="Stream",68d58efa79ff4
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd/default.mpd
 #EXTINF:-1 group-title="Stream",68fcc739cfaae
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7a98cb99702a3728f76e44058efa6efd:3f3068aca1a759e0c3b0c7c76ba920be
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9ms6nwcywa/out/v1/fbbde2bd9ea241cd947877865c3976bd/cenc.mpd
 #EXTINF:-1 group-title="Stream",68b1c93b68f0b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 #EXTINF:-1 group-title="Stream",68ab7708ca982
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a68d6b0e29ff2293e2c34f621ada5cff:eec8afaccd59ed06563fcc3ed9501ecb
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/w1gruvdfnz/out/v1/e0933fef2d214315b748762aade402e5/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcd724d41dc
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xt6fypdqk0/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a5fe8f2439
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=48f6001ddefcddd58465e0e8949cdfb0:75843e6667774fed131da90cafc4284a
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/onloozv98x/out/v1/bb7367ed566d477c831f91a2b47e84ec/cenc.mpd
 #EXTINF:-1 group-title="Stream",69078635e9bce
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=cefd5802a4ab5954cecb388d854d1712:a5a0b6b7ff6f72d5548bccd98032f282
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hqyxzmhlzo/out/v1/a21bfc815c3a4a44a659dfd9c91a4bc4/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fbc5c0abf1d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f9294d20b22
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a1bca5af60a02c460f018a3c7261f09c:b3453a545533527a9fd63ca875b2f52d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ochf0xqm3i/out/v1/37508576baee45588f0e77780508696d/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f7b6812cf75
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1ecfea1919de29e8bb3c6f9bd26d6a34:a168b49f30e3bff023ee00b06f805eab
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kib5lmfzdd/out/v1/19da3a840e954b86b285c4271437571f/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f14f6d946a9
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a203c8ce27eb191fb2e13b5146b84545:77b63decb98bd05f291838e4e4ad4d44
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/2ckptcwkzb/out/v1/f2d27ecff7b24a18aae3afe21298920e/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68f7b3aec4d7e
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 group-title="Stream",682d625b6fcca
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 https://abm5x5xaaaaaaaamjwfbpek7fak66.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c1d85d4201
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fe2bdce05fb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a1856d86902a1e0316a1d8af2d6243b4:95e80a90d55783a192c2a0c5e85fcd70
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xxnmipsw7d/out/v1/433d748b306b4fa386eec1c2774e56a9/cenc.mpd
 #EXTINF:-1 group-title="Stream",682adcaf6df79
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c2fe484611
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903
 https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 #EXTINF:-1 group-title="Stream",68f39e110012b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=e910d63234b6cb66e20b814375cdc150:5f366355e1e2423965f6c0e8592950ec
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ohqwstgcil/out/v1/9b43e44fa4ef4a589c03ca140e340d0b/cenc.mpd
 #EXTINF:-1 group-title="Stream",682ac43d04391
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
 #EXTINF:-1 group-title="Stream",68f39d82ae0a8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d6bc0fc29880169fd3657459f83496b1:dc6e2b44e45d4ee8a07995de2958f390
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/oqoaynnvej/out/v1/61a361d21c044b74b308d52b264e9547/cenc.mpd
 #EXTINF:-1 group-title="Stream",69062181cf0ea
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
 https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
 #EXTINF:-1 group-title="Stream",690b98016c9ea
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
 https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
 #EXTINF:-1 group-title="Stream",68f39e0415a94
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b908eb58dfc038eb1cf121fd717c68e6:f215199f73e09c3cf3dece9d0f983b6e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ykrekwvnf9/out/v1/43f941beb0254c6194b60995b1e2b97c/cenc.mpd
 #EXTINF:-1 group-title="Stream",68343644e1a53
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 https://cricrex.live/astro/stream.php/linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 #EXTINF:-1 group-title="Stream",68dec1b3bd376
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd/default.mpd
 #EXTINF:-1 group-title="Stream",68d7e135b8ea2
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 #EXTINF:-1 group-title="Stream",68d6dad526e69
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a05a54bf469c6040a288477d0082ca65:4344373c32a573e73a42eeab936a98a9
 https://criclive1.starzplayarabia.com/out/v1/1adbc63744e44594a273eb48ec027b65/index.mpd
 #EXTINF:-1 group-title="Stream",68d2ed28dfebd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c2ef8bb4a1
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7
 https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
 #EXTINF:-1 group-title="Stream",68e1282da2391
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd
 #EXTINF:-1 group-title="Stream",682c14bde31f9
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 group-title="Stream",68fcd9dcd1d85
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a6899b41d2d9dfe7a1dcaaa9b3aa0d85:10c6a1903dea885704a478e82dcec55c
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mgzfo3lgfr/out/v1/31addf63a1fc47faa1438dd40ece3c94/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a5c67014ae
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=680a24e3d3785ea8b3a33a56928ea128:3f07a7f94f0ac7ee96057224b6a4163d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xuzbx98gbb/out/v1/95d0f00d5f5a4f52847c48265e7ed5c5/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f3a3e608b2e
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 #EXTINF:-1 group-title="Stream",69061bd226dbf
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
 https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f92a676c4ad
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=aac73807bff708555006dd8e60b58ab8:f4145938732b764ca59576887e5b2167
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/23uzfhjl3p/out/v1/386a38e57c834600971aa8110975c0af/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fbc68f012bd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ef5efcbecae636d511fb51f1c6dd75d5:d9245dfdd2a4af72d599505c59c71f44
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qnln6niwjg/out/v1/2cc5d34893994fcb8c5f81f887f0f43d/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f39dcf7516c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b908eb58dfc038eb1cf121fd717c68e6:f215199f73e09c3cf3dece9d0f983b6e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ykrekwvnf9/out/v1/43f941beb0254c6194b60995b1e2b97c/cenc.mpd
 #EXTINF:-1 group-title="Stream",68d7e0f2f38ce
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
 https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 #EXTINF:-1 group-title="Stream",68d227aae5ccd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
 #EXTINF:-1 group-title="Stream",68fcd72f672dd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9b00db712b1e50306e0b836a64e7121a:c97c3d30e10ead1a2b9a467c49967a39
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/krg9kbmpeo/out/v1/d5a2e66294604ffb90613e24d6913abf/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fd1157da140
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=78bf9ace493e5ad15821dca23249bcb0:bbf11362e9e5766c4ed56ef2852ba848
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sb6ia9wt6v/out/v1/f29ad0163ceb4cfabf1ececd2bec2e77/cenc.mpd
 #EXTINF:-1 group-title="Stream",682d64c975782
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
 #EXTINF:-1 group-title="Stream",68f929a20f528
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=e3762bc90acca0c4315a593c89596f00:07dc584ae7369bb0922b29b0a9c48793
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ncwuweug2w/out/v1/e07e56174e8f4a409656db31f165b985/cenc.mpd
 #EXTINF:-1 group-title="Stream",68d6e3c7ced50
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
 #EXTINF:-1 group-title="Stream",68f3908ae6f7f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d6bc0fc29880169fd3657459f83496b1:dc6e2b44e45d4ee8a07995de2958f390
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/oqoaynnvej/out/v1/61a361d21c044b74b308d52b264e9547/cenc.mpd
 #EXTINF:-1 group-title="Stream",68b35a00c50f3
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=2ceafaee2c58e312814e20dedb5cd15e:570408d58817ae60ac3c9967ebdd0940
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ybnuyzlx1u/out/v1/65d89cd10f9e4d628d2544ca456c6e1a/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcd8f9e19b8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a6899b41d2d9dfe7a1dcaaa9b3aa0d85:10c6a1903dea885704a478e82dcec55c
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mgzfo3lgfr/out/v1/31addf63a1fc47faa1438dd40ece3c94/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f7b6fae7e03
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1ecfea1919de29e8bb3c6f9bd26d6a34:a168b49f30e3bff023ee00b06f805eab
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kib5lmfzdd/out/v1/19da3a840e954b86b285c4271437571f/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c1cead8fe0
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fe29c558667
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a9718166c9caca3cc8fd4408a6657ac5:0c5cddf7f054cdec7f70ac9162b0ec07
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjzasqw6yo/out/v1/84086708a0bc422bbd9edcab7e1ecc06/cenc.mpd
 #EXTINF:-1 group-title="Stream",682ae12d9c7cd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 group-title="Stream",682d61e1b46d6
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
 https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
 #EXTINF:-1 group-title="Stream",690623ad25e38
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d14cfa092b63a09fa6ab6905edb77596:f0ea8e059400665cd92e5fb37ca25179
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ukv4257hrv/out/v1/d2ac05df205d44eeb17397f8a38e266d/cenc.mpd
 #EXTINF:-1 group-title="Stream",69061bc53fe15
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
 #EXTINF:-1 group-title="Stream",682d625b6fd00
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
 https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c2b221e5fc
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="Stream",68f29b3d9b4ea
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f9b359276de
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a23b0d3bd7
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f3c0bf74fcd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 #EXTINF:-1 group-title="Stream",68ab83de52841
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 #EXTINF:-1 group-title="Stream",682adbdb66bf7
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c17d594f0e
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
 https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 #EXTINF:-1 group-title="Stream",68d29884ce7a3
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=77e93f69c2d4c23e2cf8dc9e892f4ac7:71a786d7774d6df4487494145db485a4
 https://live-atv-cdn.izzigo.tv/4/out/u/dash/REALMADRIDHD/default.mpd
 #EXTINF:-1 group-title="Stream",68fbc6565135f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
 #EXTINF:-1 group-title="Stream",69064a61a7486
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=696f9bf50f6acb998f01b167f116489a:665def116bb1fab7a150652c1b8ae38b
 https://abfefuqaaaaaaaamje6i5hpbgxmgg.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sa3kv0ib81/out/v1/3997f922f5a946359797885cb496f93b/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fbc67d05728
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcd7b37cf39
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=6b1cfa758dc012deef321eaee2346912:ded2a0590a739beb6569be6e15c5e913
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/t3byrhrqwf/out/v1/52ae50567a3746a6bc81a46d53cf189a/cenc.mpd
 #EXTINF:-1 group-title="Stream",68dec1c098053
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/default.mpd
 #EXTINF:-1 group-title="Stream",68f14ea9bccc1
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3f53cc2bb2f0a50708f0a45c248b6a9e:2951442b91d85be7e9de3fdf30b26bb5
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/mwzvrsn6bp/out/v1/9df4fab5e9c34f5686598ad7b6e8eb7a/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68f7b2aba4d75
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f39d8b971ee
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0e5c56eadd0dbf651b0a9fee31c327ca:dc2bf78bf7e01c715ca1f975fc6d8434
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/yx9mor5x6p/out/v1/828ef0c8811243369dcc4bea12b726f6/cenc.mpd
 #EXTINF:-1 group-title="Stream",68a8c19a0f3cd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a239a16073
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=326dfb8f7a0672b9a73c2d4b438ab9cc:27d76f993b4f6c23e45b954d455074b8
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/zbwxqs7emu/out/v1/4f5eb6f6b0b14d3f898299deb57868cd/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",682add16024df
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 #EXTINF:-1 group-title="Stream",6900febe663a1
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fe4f983e472
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=f6005b21afec72e6b6692550b906ffa7:042b3f289f30a1fc9d27b24a40e9c41d
 https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zzp86oh69q/out/v1/280a0e2135e449339d4241e3ada5552c/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a25de28e7c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 #EXTINF:-1 group-title="Stream",68fcd64452b8d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=effd639c36c371e08906f60f6102a8e0:60f5f5dadb4ad8f5b955b0eb56d9b75f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zkj73zewd7/out/v1/c02b54d3089e4b169afb2804013165cf/cenc.mpd
 #EXTINF:-1 group-title="Stream",682ad8e91af89
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 #EXTINF:-1 group-title="Stream",68d7e49c1b99b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=5088d47b890d4075bb6a0d85143f2343:200016037050262716e416b2714bbe5e
 https://awslive01.stan.video/out/v1/3be09f21bbf5441c81c610654262d464/index.mpd
 #EXTINF:-1 group-title="Stream",682c1e44cf15b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c1a2a59d39
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 #EXTINF:-1 group-title="Stream",68f3c73947142
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/master.mpd
 #EXTINF:-1 group-title="Stream",690ba892acbf4
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcdae2bf2ee
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7575687818c129d0cee72c715d9a8fde:c84e53316bf009ec9e6921816f91f800
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xr2j63m4bu/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd
 #EXTINF:-1 group-title="Stream",68ab562745a6c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c5474fedd7d380decc66fe88fc6c080a:5681cecd85dc1ac9897d27e5c258b453
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uiimfbl4pq/out/v1/3ed3ad32b0bc4458997eb93241cb34c6/cenc.mpd
 #EXTINF:-1 group-title="Stream",6832efd4f3b8f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
 #EXTINF:-1 group-title="Stream",682c2925b70f6
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0ecfce9c56a46a42e4aba2dcf8037fed:3085cadf11d93aa24b88ba938ad61ccd
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xfixnh8glr/out/v1/7bd3f3b9e3f94d15bc0a52878c067d60/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c1f2240f5f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c209b19514
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 group-title="Stream",682ad82e1a0b5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 #EXTINF:-1 group-title="Stream",68f39e6301c72
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d488a7fc21df1f453f50c603c000d821:137f5f1958749a63b766a033c6b84ef2
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/exzo0rg5yd/out/v1/82278d648265484ba604dbd5cb20a9db/cenc.mpd
 #EXTINF:-1 group-title="Stream",69076afd0ff50
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=85bddf7c220ab7a3acd400ab941e51b7:33f03cb5e26c0594f0895ed757c6330a
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vv2gl4qe11/out/v1/d8cc211c99f746ca94b4fcbf27007057/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f92e962df7c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=bebf83a365a6462a7fd4484f3e3d4742:b28b63b1cd5bece6885dd434a1a3719c
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ilikgn2yut/out/v1/37afb85a3a9b450197ad43c47bc92f76/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f38f3c1a709
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d6bc0fc29880169fd3657459f83496b1:dc6e2b44e45d4ee8a07995de2958f390
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/oqoaynnvej/out/v1/61a361d21c044b74b308d52b264e9547/cenc.mpd
 #EXTINF:-1 group-title="Stream",68eccec419f8a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=24bab7ca9db8c6a3531a7b47a630b369:687cde9605a93248d433df607b547836
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/y5gm3iemdd/out/v1/7b00f6441ea64bc28b3efb47e13bac4e/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a5a90acfbe
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=aed758916c343b115093e98f4c0e4a99:9c74bff9249e2ac2eb65b49f614f8f7c
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/p3ybn2gpmw/out/v1/b29bd25eded6483ea480cb9ef7f70810/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f92acbe355f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=db1c016866edf543ba6387ec2616bec7:7c1c3a1dd4718e23d70716d0b0ae3a77
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dn0yrvnxek/out/v1/70d1b584ac4d4647981cb144a92f7c90/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a256d2bf59
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 #EXTINF:-1 group-title="Stream",68f7b8687528d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3a4ea122da6cc5842544798747b44759:2d8379e632b47306dabda880110bf41f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dcpmrl3pau/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
 #EXTINF:-1 group-title="Stream",6845d0f4c4baf
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8cac6d56dcf3d517c28f4362997d7771:cd35632195b19269554629f6f20b9e65
 https://abfdm2saaaaaaaamljqrv7ybrrx7h.47348d5020154bfaac6dd4418cd23c5d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1lr0v4ufwl/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd
 #EXTINF:-1 group-title="Stream",682ae2aaf08d1
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #EXTINF:-1 group-title="Stream",6909d4bf951bb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=326dfb8f7a0672b9a73c2d4b438ab9cc:27d76f993b4f6c23e45b954d455074b8
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/zbwxqs7emu/out/v1/4f5eb6f6b0b14d3f898299deb57868cd/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68fcd8edb6dd8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=6b1cfa758dc012deef321eaee2346912:ded2a0590a739beb6569be6e15c5e913
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/t3byrhrqwf/out/v1/52ae50567a3746a6bc81a46d53cf189a/cenc.mpd
 #EXTINF:-1 group-title="Stream",68d6e3b940376
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fe4d7d576a6
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=f6005b21afec72e6b6692550b906ffa7:042b3f289f30a1fc9d27b24a40e9c41d
 https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zzp86oh69q/out/v1/280a0e2135e449339d4241e3ada5552c/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c17d594f15
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 #EXTINF:-1 group-title="Stream",682c17d594ed0
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
 https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 #EXTINF:-1 group-title="Stream",6906218cbc1da
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0483a4b1de952abc028f7415e5bdc0bf:8462ec19bc49d9c60276e68cb7e7a6ea
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/eb6ko2aqak/out/v1/5bc929e6a4ab4fafbfba9b22720e40e5/cenc.mpd
 #EXTINF:-1 group-title="Stream",6907862b97175
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=07440763aa727b5f0293ec9625652cd3:d06250511229150fa4407734018d73ae
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jzo7a0taj4/out/v1/80c8123d9ab546249f1d7a0d05d69f0c/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c2faa93d5d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6
 https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
 #EXTINF:-1 group-title="Stream",68f38f276d85a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=696f9bf50f6acb998f01b167f116489a:665def116bb1fab7a150652c1b8ae38b
 https://abfefuqaaaaaaaamje6i5hpbgxmgg.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sa3kv0ib81/out/v1/3997f922f5a946359797885cb496f93b/cenc.mpd
 #EXTINF:-1 group-title="Stream",690a5c7356220
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0f65ef6baf9c0f3b7b3aaa3b6e4231e6:90f1c418cb62c118327cb1838f1acf25
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/2v05yo8k45/out/v1/ca1a64d9ccb740eeb18bd1a2711f7f20/cenc.mpd
 #EXTINF:-1 group-title="Stream",69061a2774033
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c1a2a59d0a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 #EXTINF:-1 group-title="Stream",69024d1062652
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcf0401df65
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
 #EXTINF:-1 group-title="Stream",682adf8649d2a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a23c541ad1334ea697bab962336d31e6:996515f9b655011b20993c5514298eb3
 https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df3803486870/index.mpd
 #EXTINF:-1 group-title="Stream",6832ee9b8f00d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
 #EXTINF:-1 group-title="Stream",68c2dbe9433d6
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master_664.m3u8
 #EXTINF:-1 group-title="Stream",682c17d594f12
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 #EXTINF:-1 group-title="Stream",68f29b4a405a6
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=696f9bf50f6acb998f01b167f116489a:665def116bb1fab7a150652c1b8ae38b
 https://abfefuqaaaaaaaamje6i5hpbgxmgg.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sa3kv0ib81/out/v1/3997f922f5a946359797885cb496f93b/cenc.mpd
 #EXTINF:-1 group-title="Stream",68f14f61ea2ae
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4626728e91e9e3e88d135e045f645b44:171d70c9caba0da9bb4fe0e5837abfb7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/5e62e9inpa/out/v1/529f9ad3a91e4fa9a6fb7d4dbe765335/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68f14e911a0cd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c745ae85f3a06feba71b92df84f3a271:3b18e09add4affef023cbf5f53cb11be
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/xgx8wdfenz/out/v1/82763ceb918f42f5a5347417ef9cdc76/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",68ab5bc46e15a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=9c80702234f03beac9956d700e25666f:94726586ccc7a4bb684f7c87e4b3b52e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ajzpzlmihz/out/v1/7fd4058d8e544234b6a1b214596245e7/cenc.mpd
 #EXTINF:-1 group-title="Stream",682c28b59ba33
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=02C5848F99CC0E2D189EC785862F3E58:d7089c9e7e1a55a73c016c3fc33fe603
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ocdmtrviru/out/v1/e1732a27283d45d1b2de0c220e0ca62f/cenc.mpd
 #EXTINF:-1 group-title="Stream",683b4337a1a94
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d609362a661fab7e1cbfba599c2f4460:e87c2f899904cd76f604e874d23e1a9a
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/nzhfhhorll/out/v1/7428ebfd67cf4964aa9ff96081ad8541/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcd6cdc40e8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xt6fypdqk0/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
 #EXTINF:-1 group-title="Stream",68fcd6bf7380b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b96fb1679c8112086bb85ae402acc3f4:e907a234805555ef24b664e6c3babedb
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epq8g0alu4/out/v1/98941c2c0ec34c7fbbeefe8cfa6ebd42/cenc.mpd
 #EXTINF:-1 group-title="Stream",68ab82401058b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd
 #EXTINF:-1 group-title="Stream",68c03874e78b0
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=72c85057fa21075718da95c404ee8a54:dde3c4722d816a3868debf505e126e1f
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/rfdic6umsl/out/v1/ad4a1f1280e045a89f0171ace0f99647/cenc-sd.mpd??
 #EXTINF:-1 group-title="Stream",6908d6e12c9bd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
 #EXTINF:-1 group-title="Stream",6900fe97185e7
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=6af93fba99c9503b9f3629522d618b1a:051477e9c9471eb41e93996a661f45a7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/llmxv4ssny/out/v1/6441ca3ea8044ce9bf8e2363c55891ab/cenc.mpd
 #EXTINF:-1 group-title="Stream",690e385e5d9ab
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 #EXTINF:-1 group-title="Stream",690e34fa40696
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=696f9bf50f6acb998f01b167f116489a:665def116bb1fab7a150652c1b8ae38b
 https://abfefuqaaaaaaaamje6i5hpbgxmgg.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sa3kv0ib81/out/v1/3997f922f5a946359797885cb496f93b/cenc.mpd
 #EXTINF:-1 group-title="Stream",690e3808410fb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=696f9bf50f6acb998f01b167f116489a:665def116bb1fab7a150652c1b8ae38b
 https://abfefuqaaaaaaaamje6i5hpbgxmgg.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sa3kv0ib81/out/v1/3997f922f5a946359797885cb496f93b/cenc.mpd
 #EXTINF:-1 group-title="Stream",690e34ed551f9
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 group-title="Stream",690f5ad2b06cb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 #EXTINF:-1 group-title="Stream",690f59cb223f3
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 #EXTINF:-1 group-title="Stream",690f5ade05857
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
 #EXTINF:-1 group-title="Stream",690f8146751f5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
 #EXTINF:-1 group-title="Stream",690f815254659
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=f861b5eab820b7f8510949dfe7fedf2a:375e3f5962c2025ea9984c51d0a41710
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3mzzn0t4er/out/v1/44f5bdb448dc4b9d99dfafdd5812a65e/cenc.mpd
 #EXTINF:-1 group-title="Stream",690f80e7bca9f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
 https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
 #EXTINF:-1 group-title="Stream",691086d5ec352
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=f861b5eab820b7f8510949dfe7fedf2a:375e3f5962c2025ea9984c51d0a41710
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3mzzn0t4er/out/v1/44f5bdb448dc4b9d99dfafdd5812a65e/cenc.mpd
 #EXTINF:-1 group-title="Stream",691086ec74ce3
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 group-title="Stream",6910ad2c49bf3
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=68812aee6d106ce37926c8ee90cc03fd:97d67408d893377646894ef247d6dad9
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f18fxd54cc/out/v1/794fe1c7b37d415db80f81555662fdb6/cenc.mpd
 #EXTINF:-1 group-title="Stream",6910ac8b61427
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b368d70a41952fd5d7150c3c7fb3f17a:fc18546820d315411af3d4a4569181bc
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/evpnql2yaa/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd
 #EXTINF:-1 group-title="Stream",6910add906483
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d795111eca66326620a9226d54f69906:b4bb11a1ee488a37d5dc77b43f499cfb
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9dlja30jtb/out/v1/6aae9eb35752456c963ec0079510e41c/cenc.mpd
 #EXTINF:-1 group-title="Stream",6910accab748c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b368d70a41952fd5d7150c3c7fb3f17a:fc18546820d315411af3d4a4569181bc
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/evpnql2yaa/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd
 #EXTINF:-1 group-title="Stream",6910ad944d8ec
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d795111eca66326620a9226d54f69906:b4bb11a1ee488a37d5dc77b43f499cfb
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9dlja30jtb/out/v1/6aae9eb35752456c963ec0079510e41c/cenc.mpd
 #EXTINF:-1 group-title="Stream",6910acdb6e12f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=903f6294822bd42721e19a7dc579ff5e:bd18840208540ed0420e9d1e25de6651
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/svbj4neyif/out/v1/fd53b812a2f44c97b7460bf7aafe0abd/cenc.mpd
 #EXTINF:-1 group-title="Stream",6910ad76c2b59
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=68812aee6d106ce37926c8ee90cc03fd:97d67408d893377646894ef247d6dad9
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f18fxd54cc/out/v1/794fe1c7b37d415db80f81555662fdb6/cenc.mpd
 #EXTINF:-1 group-title="Stream",6910aedf238cb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
 #EXTINF:-1 group-title="Stream",6910ad1e8dc81
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=903f6294822bd42721e19a7dc579ff5e:bd18840208540ed0420e9d1e25de6651
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/svbj4neyif/out/v1/fd53b812a2f44c97b7460bf7aafe0abd/cenc.mpd
 #EXTINF:-1 group-title="Stream",6910adde7abfb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d795111eca66326620a9226d54f69906:b4bb11a1ee488a37d5dc77b43f499cfb
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9dlja30jtb/out/v1/6aae9eb35752456c963ec0079510e41c/cenc.mpd
 #EXTINF:-1 group-title="Stream",6910ac7827cd5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 group-title="Stream",6914c7418dd09
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7039b2570d5d429c7f4a7a4058ba5135:2f5ed0dd0a0ca671dee3948dbbe023d4
 https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/1xsggbtjku/out/v1/bfd93216daf6417298bfcc7d3015d823/cenc.mpd
 #EXTINF:-1 group-title="Stream",6914c7d30ad24
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7039b2570d5d429c7f4a7a4058ba5135:2f5ed0dd0a0ca671dee3948dbbe023d4
 https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/1xsggbtjku/out/v1/bfd93216daf6417298bfcc7d3015d823/cenc.mpd
 #EXTINF:-1 group-title="Stream",6914c71bce984
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
 #EXTINF:-1 group-title="Stream",6914c847e8b5f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 group-title="Stream",6914c82d705dd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.m
 #EXTINF:-1 group-title="Stream",6915fc42c7e74
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 #EXTINF:-1 group-title="Stream",6915fec25e57c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 #EXTINF:-1 group-title="Stream",69160010156f9
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 #EXTINF:-1 group-title="Stream",69160003e341a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd
 #EXTINF:-1 group-title="Stream",6915fed0ea581
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd
 #EXTINF:-1 group-title="Stream",6916b8ea79dab
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=eedcbfd794b97c86ecdb14fa2ea082df:f1d1ee7c5c40c3111a38a544c7900d6e
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/po2bru2k6x/out/v1/0c7e77fd5aa54fc8a3fae674542289eb/cenc.mpd
 #EXTINF:-1 group-title="Stream",691737edc371b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 #EXTINF:-1 group-title="Stream",691736a781488
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c77739fec9cf1e2657cd09c23d4532bc:445bd597a03deb653bd057d89ac06606
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/3rqdqblt3k/out/v1/701a0af947414df288da69767aefabc3/cenc-sd.mpd7a340d3bdb85e57f724acdf/cenc.mpd
 #EXTINF:-1 group-title="Stream",691734f919c3b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c4b8417b841ed7988746bfa631a8c1ac:ad2f28587a1e0b3ff5fa86cfeb991127
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/0u1gpmhaqa/out/v1/a7991c2837a340d3bdb85e57f724acdf/cenc.mpd
 #EXTINF:-1 group-title="Stream",691734e31bff0
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 #EXTINF:-1 group-title="Stream",69173811d0feb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="Stream",691735aea4cae
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd
 #EXTINF:-1 group-title="Stream",69173db5901bd
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTINF:-1 group-title="Stream",691888d9657fe
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 #EXTINF:-1 group-title="Stream",69188af3de0d1
@@ -1190,356 +1190,356 @@ https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 #EXTINF:-1 group-title="Stream",69188a3c7ba89
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 group-title="Stream",691888b1eb16c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 https://ablhv3zaaaaaaaammndourvrl7ioa.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
 #EXTINF:-1 group-title="Stream",69188b22c4c5a
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 #EXTINF:-1 group-title="Stream",69199d33c2d73
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c77739fec9cf1e2657cd09c23d4532bc:445bd597a03deb653bd057d89ac06606
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/3rqdqblt3k/out/v1/701a0af947414df288da69767aefabc3/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",6919d61246bcb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 #EXTINF:-1 group-title="Stream",691a05fb65a49
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=51f37d3d65e41e97d93a317068fb68e4:4c06e78033e012511080d19b3574c3fb
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/aomhxp9y4j/out/v1/216ced8b78444d8f8f0b720f5365a4ee/cenc.mpd
 #EXTINF:-1 group-title="Stream",691a05ac51d8e
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=36a6e422d3798368680c537cf53f18bf:c6947710f0203b4fa692140320e49b18
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qqycj79ixp/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd
 #EXTINF:-1 group-title="Stream",6920330fe3908
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7478fc940c1a5f18056cd8dd1e32786c:54aeadaa13fa9ef051d68990894ceec4
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/unphwrnhdm/out/v1/b099c32d36304e01834cc9df1b600a30/cenc-sd.mpd
 #EXTINF:-1 group-title="Stream",692085cf10d04
 https://live.inplyr.com/room/434982.m3u8
 #EXTINF:-1 group-title="Stream",692130d3e1bfb
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=2f5ed0dd0a0ca671dee3948dbbe023d4:7039b2570d5d429c7f4a7a4058ba5135
 https://aba3uy3aaaaaaaamfjv2jyrjdxcj4.otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/1xsggbtjku/out/v1/bfd93216daf6417298bfcc7d3015d823/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921ac76d17e5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=049f9fd73a1bcb9e302696fc03c83aaf:743546ca2aae2cc7378b10f1a31c5bc4
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jobkxpjhk3/out/v1/0703282e99534bdcb3711961a644312f/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921aae596479
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921b7e04d178
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=162f67f07df3233d7c3bb91773b16cc9:af9759046dbd28c3f9c77b46ddb12cd7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tzkubkl7gl/out/v1/a9e7797540a0499283b1241ce8211fe2/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921bf077d71e
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a02ed70171b27467748bc520800fefb4:beca9d53ab12214946d8b0d1755f3b1b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ifwlfkkzaw/out/v1/e8ec156d04f64598b0c6a039275d5627/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921bfea80f6d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3a6c42a981d92447146834b649b29de8:d8e48fbd8697f3b5ca23489557bad1d5
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvt7ak0g0y/out/v1/4ae72f0cc8a24376ac3d0eab24e71e86/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921c27c58965
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=caa31837d55c1216b1ae5fb7815ff2fc:c257462ea05969d4774f97ec3e3d23e5
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdwfnviqt/out/v1/677f283b86a24eb7b370669d8956a8de/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921bec6eb338
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=fa08a18819d6ac0dea032f6b155642ee:abe8ac76290a82718cefbcaf65329a6d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hvyb6xgzjs/out/v1/4373422900714196aee3eda4f709bd5d/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921c20a1a7d1
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b10995eb6bce1392c57166c0981427cb:35404efe3f5a187adb1ae74b245ee438
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vnmislzcdc/out/v1/d5fe1b24651241b78473e1424b536edf/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921c02864bed
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=11f8193c5fe22a859617424d5888c82a:ae0b3514374ce2b7776d9ffd490b2d6a
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/36cublvvsj/out/v1/89c7187eb29b4e36932de46b9f46a17a/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921c3748b784
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=08fc67b1a3c507f0e6bfa47a76480682:3f863d385f385fae6b9d735f7ca0e7b3
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/klwpoquhhj/out/v1/d61bb6d88a8144b7ae46cb99c109b6b2/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921bfa1df480
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=247d6c58b2561bd3a5090d32d70645e9:e6459b558d6dee1a311b928daa260611
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/j1z3fglo2n/out/v1/82bd64fe29c84c62952461e5e2d284c6/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921bf5688b3a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8c9f1c9e93a319684412a283e740df93:2aa3670c69eaf54a30a76080df4b1c93
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jpddvphjv6/out/v1/caec4e67c03246009461f51fd9280ee1/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921ca9a78d49
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=149cf3e07d1b11cad4363b3b1d1249b8:c7fc3ddece73dfeb526d4de3379aa587
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/a3aati9za4/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921ca11d7198
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=69f2fd274fb0c2ba7e6382a6f41596c6:36bee9c7a923d4325d550a2de9a1d302
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uq4qel19kd/out/v1/e12d52fbfe7e44329f2db82c54abcea6/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921cb43a07c8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ae302ff09c61cb92d57f5fc85e7fb55f:59052af3d68adaadf3ad3ee9197fbfc6
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ji7jmny7z5/out/v1/84086708a0bc422bbd9edcab7e1ecc06/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921cb10e0304
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a562f188fa2c9199ddc87fb8db988c5c:23d91617596331de3a7270f887d5f180
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ihp06sy7vd/out/v1/7379516920e24998ad2544a880e68a76/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921ca5bdc29d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=69f2fd274fb0c2ba7e6382a6f41596c6:36bee9c7a923d4325d550a2de9a1d302
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uq4qel19kd/out/v1/e12d52fbfe7e44329f2db82c54abcea6/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921cad9a0f52
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a562f188fa2c9199ddc87fb8db988c5c:23d91617596331de3a7270f887d5f180
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ihp06sy7vd/out/v1/7379516920e24998ad2544a880e68a76/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921d11908a06
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921d35a7f5f1
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a02ed70171b27467748bc520800fefb4:beca9d53ab12214946d8b0d1755f3b1b
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ifwlfkkzaw/out/v1/e8ec156d04f64598b0c6a039275d5627/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921d3ea3f768
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=91cc1961137a5f9d44a7ed3d16a7b597:ac0d56073e8604fc9769e127aaf9b451
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hhd8fhwbnm/out/v1/c4508583ed1f468486791bb82677077a/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921d540ce49f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b97e98428a7535e4e203b79d33fea9ec:69d3def1a6117c8859724a7d1867577f
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8feeoqg85v/out/v1/4efeea9bb76145f2ae4347c11426491e/cenc.mpd
 #EXTINF:-1 group-title="Stream",6921d399c5c4c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=247d6c58b2561bd3a5090d32d70645e9:e6459b558d6dee1a311b928daa260611
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/j1z3fglo2n/out/v1/82bd64fe29c84c62952461e5e2d284c6/cenc.mpd
 #EXTINF:-1 group-title="Stream",6922c06145207
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://priolive.vercel.app/pro/linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 #EXTINF:-1 group-title="Stream",6922f31043f8b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1b803f430c35678cbaf57a3b646a5cbd:6da6b7dbad36f7ad9b7fb75f6b7d34ebb6f9d5c6bc71dd
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qkninxceqq/out/v1/c012a036c7d94fbe934755d9f66b9f47/cenc.mpd
 #EXTINF:-1 group-title="Stream",692308023fe97
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1b803f430c35678cbaf57a3b646a5cbd:baa32a602962bf7dfa30067b61ca8cd2
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qkninxceqq/out/v1/c012a036c7d94fbe934755d9f66b9f47/cenc.mpd
 #EXTINF:-1 group-title="Stream",6923153cda144
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d4dbc64b13268d69acc86482397f0e63:0dd29734ffb06b8a6beeaf0eaa1ca21b
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ylj255ouuu/out/v1/794fe1c7b37d415db80f81555662fdb6/cenc.mpd
 #EXTINF:-1 group-title="Stream",69231ae74a8d8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 group-title="Stream",69233f0ae7822
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&amp;amp;devkbps=1-7000&amp;amp;servicetype=1&amp;amp;icpid=86&amp;amp;accounttype=1&amp;amp;limitflux=-1&amp;amp;limitdur=-1&amp;amp;tenantId=3103&amp;amp;accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&amp;amp;GuardEncType=2&amp;amp;RTS=1717205309&amp;amp;from=11&amp;amp;hms_devid=1008&amp;amp;online=1717205309&amp;amp;mag_hms=1008,311,305&amp;amp;_=1717205322621
 #EXTINF:-1 group-title="Stream",6925e06198dad
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 group-title="Stream",69276c5ace6c5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=49cf2598d80199c8f71ad160fc3129a9:3c69406950a2650c0a076a98b67cbf44
 https://abm5x5xaaaaaaaamjgudev5k44qb3.ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/oqj2cdwi63/out/v1/e7a51d089c6a4d408143b02faddf734b/cenc.mpd
 #EXTINF:-1 group-title="Stream",692769c724e5b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=790812a2bc2dcec1e821683949ced77d:d0bfbc9a7c03b7c7a2585885a2d6e838
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ez3xkomjpf/out/v1/f65e5212b5964cce8a127471d10a7af4/cenc.mpd
 #EXTINF:-1 group-title="Stream",692767ceb3a2e
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=881489d097851ac481c713a430596869:8de538401603dae55542152e0cd36842
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fniqq1ealr/out/v1/1c7b9e6690ad4ef88ef22e0686f4f925/cenc.mpd
 #EXTINF:-1 group-title="Stream",692769053b5c5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0fd3652ff527e999cdd2778bacc124b6:aa0c22e4bc35bbc80142cb07094e8447
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wrbp7sd1lh/out/v1/6d1aac1a630d4ff29d162d8d58a0478f/cenc.mpd
 #EXTINF:-1 group-title="Stream",69276c97e4a76
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3096cd5300e8ff0fa6337c0a028b51da:5973ce4997ed0223cd158712d49f76b0
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ekfujlbijm/out/v1/9109fa8c5f9a414bb52486955cd308d6/cenc.mpd
 #EXTINF:-1 group-title="Stream",69276bc270db5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=eb3217df6a571c7a5f108bbd941bbdd0:d1dcacbaecf1597296449b152cb8cf94
 https://abm5x5xaaaaaaaamjgudev5k44qb3.ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/iedf3wmmzh/out/v1/f9bc8a4b82bb47079eb5baf340042421/cenc.mpd
 #EXTINF:-1 group-title="Stream",69276bff894e5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8d9a24e90e57068e76b741f93226d8e4:e7f90f2e4452992fa5e85b2ec0f51077
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zyhwn9qs5/out/v1/b11fca963cea421fbe04b23b41461fea/cenc.mpd
 #EXTINF:-1 group-title="Stream",692a0145d78f8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=696f9bf50f6acb998f01b167f116489a:665def116bb1fab7a150652c1b8ae38b
 https://abfefuqaaaaaaaamje6i5hpbgxmgg.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sa3kv0ib81/out/v1/3997f922f5a946359797885cb496f93b/cenc.mpd
 #EXTINF:-1 group-title="Stream",692a00baeb2a1
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=548ce726d96d00932497cea381815bcc:33c51ea893c087e6d05d87cfa70a3efa
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/n9vusqclkx/out/v1/fe7bea9b8b7948cdbb7c283fa450eb23/cenc.mpd
 #EXTINF:-1 group-title="Stream",692ae85d50ec7
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=f594c500ce654257eb459ed69a44bec0:e2cfba17aaa9c7dddadb95bd68f46b2a
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ubd1e1xzss/out/v1/44527fd7e203400cabf0c447ae1d8d0c/cenc.mpd
 #EXTINF:-1 group-title="Stream",692af86d111ec
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8beb21a739b7811a251f22e3622a29e6:dc6155d452f145df3ec133c6b7723ac8
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kkuypsqnnk/out/v1/fc86417d1bc24d97b72fbeb487f2a648/cenc.mpd
 #EXTINF:-1 group-title="Stream",692af90b86b7f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=0602653e293e2759e11d5b87535c0658:cfbf9f4c402e54a51d8829c466e5239a
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/twzun69p9f/out/v1/8b1e6215df9e49fc855640b501ad1bc3/cenc.mpd
 #EXTINF:-1 group-title="Stream",692af945a2d23
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=1e0d38b1503f1d88f960c8341f338fa5:d18588498503adfbd84998c09710e915
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/t3s5q7ih58/out/v1/3aab869da20d48e5870ac5e936ac4cbb/cenc.mpd
 #EXTINF:-1 group-title="Stream",692af8bfcbea9
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=c085ec504e1ade2197a1438a3b093ee1:c1fa109f360a0ec955c25c7b4be16185
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tabi4epcs2/out/v1/11ba63b6b76f4f66be591aafad2e7b2a/cenc.mpd
 #EXTINF:-1 group-title="Stream",692afe3c8806f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a26dd1664116b8a913a60cb5183b7620:fbbffec1de854f716469e7ac196e8032
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ezwt6zdmpa/out/v1/728a4aa1120c4719bd95b753b9564cf3/cenc.mpd
 #EXTINF:-1 group-title="Stream",692afeecda4f8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=a3c8b8d9a288ac9207ee9eee54e5acf4:45ab30332f5bafd3314ddd870e162caa
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kmmgpjtqkh/out/v1/52ae50567a3746a6bc81a46d53cf189a/cenc.mpd
 #EXTINF:-1 group-title="Stream",692afe967fba8
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=6e2f64523f7c3445071fdd3e7618615c:810df4facfc031e67686688db152ced7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ch715gnevl/out/v1/84b8c930d3b84708a2f21a3770bb203a/cenc.mpd
 #EXTINF:-1 group-title="Stream",692afc226ff21
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=49f659a5a95ab718875b19ea986d0229:0a367a3b30be951d97cd0d67f64f7c85
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/1dj5exd3be/out/v1/930fdb34326340f0a62113f2402ece8e/cenc.mpd
 #EXTINF:-1 group-title="Stream",692b124417974
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://abm5x5xaaaaaaaamcqsg3izt3pszd.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 #EXTINF:-1 group-title="Stream",692b13b8aeb0f
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="Stream",692b31ac988f1
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=f9983a850a83b41f3ef8bb73263ed554:551b6c3187995fd3eddc453ab5bfa3fa
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fgvhylxgdl/out/v1/7581107b5c60460084782ab1f9b49017/cenc.mpd
 #EXTINF:-1 group-title="Stream",692c4dcad9c88
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=fd0daa0af27d54879ccce611764fd38f:fcccb6078a2454ae7056773c5c1b29d9
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mlftood17i/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd
 #EXTINF:-1 group-title="Stream",692c5e3c6f9d3
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7eb51ccae08c20951bd000416c733825:5b3fe6ed6c0de01ccae08aad657c61d9
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zpz9qvzlqy/out/v1/7fdc51decd02455ea178f7f8ef38067e/cenc.mpd
 #EXTINF:-1 group-title="Stream",692c71d83d3da
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=851926f445999caeffe7bd8af347e54d:a83ae87e0505f4056bbeae04c4d4734f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/nptxfk8rjr/out/v1/69ceaca965624d268ac413f6fb398d88/cenc.mpd
 #EXTINF:-1 group-title="Stream",692c76cc3edb3
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=40dd4d9d1519be7f053cdb564eeba455:cd0a884f67afa387d779d2ddc83671ce
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tszazthmsv/out/v1/4492dd3ecb194eb9bc53b980cba10a8f/cenc.mpd
 #EXTINF:-1 group-title="Stream",692c78145289a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=71284d00815a6663943db1bc1790fa72:a631af3615c7e547e2b6b1f45c7c58e4
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vtxvsf7xhs/out/v1/6e22ddeb1a2c4f2bb3ade1bfa3d1e2da/cenc.mpd
 #EXTINF:-1 group-title="Stream",692ef8284a130
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Stream",692f0e9c61858
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #EXTINF:-1 group-title="Stream",692f0ec7ddc06
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 group-title="Stream",693072d8dca26
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b8fe46c948af1d1c56ddcde63f8886e4:21208f5e5714d8c31f55bf9fe19b29a7
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/luszfspbu0/out/v1/0392635fb3134f47a47df4c5544e653b/cenc.mpd
 #EXTINF:-1 group-title="Stream",6930901aaad20
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=4b86a745751c279f831fec7b34561aba:cbf04844b728dab60f697ffabb8ab8dd
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lmffegsnam/out/v1/cc4d89a063d34ce19d777f61d70cd2c5/cenc.mpd
 #EXTINF:-1 group-title="Stream",69308fbbad9e5
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=46ee341e0cddcefa9763ff87b7903c91:fa01661347166225d94b07ec9bff3b83
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cnudqq0osu/out/v1/e93f943027b14b8184eb291b2833ed07/cenc.mpd
 #EXTINF:-1 group-title="Stream",693090e479a25
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=97e3d49f16b9bcd6ad9a9f9fd48e06d8:aacf0faca3706fe606637e6a5a2c1378
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sdkdi9c9k4/out/v1/1fa49ef9a004481fa9ff2cacc71c81f7/cenc.mpd
 #EXTINF:-1 group-title="Stream",693090688bcda
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=f7083d6a67be20ec4a806c3fc05a4afa:ec253efe10ddc101c7a7c630794b8129
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bxp8ghsdeb/out/v1/7379516920e24998ad2544a880e68a76/cenc.mpd
 #EXTINF:-1 group-title="Stream",69344205e71fa
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=8586d57f8ea9ec7c57490e9a8e4ec64c:13ef6a1353260d735051057256f91849
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/yr19lrgwar/out/v1/794fe1c7b37d415db80f81555662fdb6/cenc.mpd
 #EXTINF:-1 group-title="Stream",693564edd220a
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=734ead7cf68e329f6029f14ec7e5297c:1f58dcbed1b1fb10f63713276ce622c0
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wfd5am5uqe/out/v1/b055c1cc504e4f828162f51fe211c47e/cenc.mpd
 #EXTINF:-1 group-title="Stream",6935a1a1edef1
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=481cb7857b651fa30eba3dccbf20ef60:2e383b420c0a5e8d20893954751c7aa3
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5unlrrw2ns/out/v1/1e50593f5b4544c59082e42d3468068a/cenc.mpd
 #EXTINF:-1 group-title="Stream",6935ad74ecb1e
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=481cb7857b651fa30eba3dccbf20ef60:2e383b420c0a5e8d20893954751c7aa3
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5unlrrw2ns/out/v1/1e50593f5b4544c59082e42d3468068a/cenc.mpd
 #EXTINF:-1 group-title="Stream",693882556002b
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b3585f74a3446e1a507ce5bcf0faef51:4f4c29edceddfe6281dc76cfa022cbe7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zdrgrbbhks/out/v1/ef0e6bbb998e442893e278ec83cefc29/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939b2947fe3c
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=09698fbc377b704b9e2f9941f390456e:8e207b53eff869bf59eddd8651ffaf6b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/frokq25odj/out/v1/43166aa1c2424480a639c6bb4f78c1f8/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939b11c24ea6
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=f78e70838715092104b3401af714fa95:32dad78770685d2c214d2498f9feeea1
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xfjaegbph9/out/v1/be4e2c46a8d94e369be05449a5c77c2f/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939b301758e6
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=7b6e68789c02f2717393593123e733a4:4bbe19e3b9f1931556290e471d55aef8
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gea8tjai6k/out/v1/ef7823a96f4c4e5ca3045a7be4ec5018/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939d2532e446
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=56e3ec0a3f2ad0e189c6d96f272ea0b7:7988debab970bd3dcda7a574e03812e0
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/oyrfr6xecf/out/v1/8345d36f708247959d76f3c5c00d437f/cenc.mpda574e03812e0
 #EXTINF:-1 group-title="Stream",6939cfd6d9f73
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=bea63be311e6fcbe42f9fe89544a8947:f84e90f24573ee30d5d9026007cf9e85
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4wrt3vduuy/out/v1/e13d1069b84e43159f5846d8650f4dcc/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939d2f424cd9
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=fd575aebac622211a5d0a537ab608a01:8ab7fcf6120627e802a346f92005aca9
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/du1w1c5a4b/out/v1/3d557fdf9c1c45a5b2c02170adc39c21/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939d04eebd10
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=b585271100280baadb4180993e643afb:322e15946a50de775ebe14becc4027be
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/arbbxwuj1m/out/v1/3607e236a14946fea12e62a29efbd1b2/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939d0aa9e86d
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=073a99ef8d887e7547114ec3d01ae090:0b0c006563127f54155c2830c2f379c0
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dl1niwfnat/out/v1/b70aceb3361e49dfb71272253aa62507/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939d4f3b3cc6
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=56e3ec0a3f2ad0e189c6d96f272ea0b7:7988debab970bd3dcda7a574e03812e0
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/oyrfr6xecf/out/v1/8345d36f708247959d76f3c5c00d437f/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939d10ce5e0e
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=da63b95976068b1930e441d0e66684b7:c761299a38ad079101788e9a9a062654
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zk5akfezts/out/v1/4cd959b297034db2aad7d83b9f26dcc1/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939d1729b908
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=516fa751a327a5367072f49d981241e4:ce96d2b3f795a96810c2493414f7356d
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sxu5r3u5ff/out/v1/07b714e5660045eaa13b60f094546e33/cenc.mpd
 #EXTINF:-1 group-title="Stream",6939d1b4e20df
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_type=key
 KODIPROP:inputstream.adaptive.license_key=6f76664d511074bf029dc04a7370c92d:bf62a8e64acec239f3224fac4ca4c492
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/b9lk9t7y8x/out/v1/1bc4b3770cb747218c5d52367b90aadb/cenc.mpd
